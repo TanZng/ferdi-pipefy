@@ -3,6 +3,8 @@ This is a Ferdi recipe for Pipefy
 
 # Release notes
 
+1.0.2: Improve variable naming 🚀
+
 1.0.1: Add LICENSE 🚀
 
 1.0.0: First version 🚀
